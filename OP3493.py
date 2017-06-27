@@ -1,7 +1,7 @@
 import LennyStocksAPI
 import time
 
-UID = "AA5191"
+UID = "OP3493"
 
 while 1 > 0:
   LennyStocksAPI.buyStocks(UID, "AAPL", 2)
