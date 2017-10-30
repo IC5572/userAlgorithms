@@ -2,6 +2,8 @@
 #Last Updated 25/05/17
 
 #!/usr/bin/python
+# Function to get the original price paid for the stocks held?
+
 import sys
 sys.path.insert(0, '/home/pi/Trading/functions')
 
